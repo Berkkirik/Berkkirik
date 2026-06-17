@@ -28,15 +28,15 @@ Five years building production AI systems — LLMs, RAG, agentic platforms, mult
 
 ## Technical Skills
 
-**Languages:** Python · Go · Rust · C++ · JavaScript · SQL
-**Frontend / Web:** React · Next.js · Vue.js
-**ML / Deep Learning:** PyTorch · TensorFlow · Keras · JAX/Flax · Hugging Face · PEFT/LoRA · Unsloth · XGBoost
-**LLM / Agentic Systems:** LangGraph · DeepAgents · OpenCode · CrewAI · MCP · DSPy · LangSmith
-**RAG & LLM Ops:** LlamaIndex · RAG (FAISS, Qdrant, BM25, HyDE) · RAGAS · vLLM · Ollama · Guardrails AI · NeMo Guardrails
-**Backend & APIs:** FastAPI · Django · Flask · Gin · Echo · Fiber · Node.js · gRPC · REST · Kong · KrakenD
-**Data & Graphs:** PostgreSQL · Oracle · Redis · Kafka · Neo4j · GraphQL · Pandas · Spark
-**Infra & DevOps:** Kubernetes · Docker · Docker Swarm · GitOps · AWS · Prometheus/Grafana · Keycloak
-**Biomedical / Domain:** Signal processing (FFT, PCA, LDA) · Sensor fusion · Embedded (ESP-32, Raspberry Pi) · Healthcare AI
+- **Languages:** Python · Go · Rust · C++ · JavaScript · SQL
+- **Frontend / Web:** React · Next.js · Vue.js
+- **ML / Deep Learning:** PyTorch · TensorFlow · Keras · JAX/Flax · Hugging Face · PEFT/LoRA · Unsloth · XGBoost
+- **LLM / Agentic Systems:** LangGraph · DeepAgents · OpenCode · CrewAI · MCP · DSPy · LangSmith
+- **RAG & LLM Ops:** LlamaIndex · RAG (FAISS, Qdrant, BM25, HyDE) · RAGAS · vLLM · Ollama · Guardrails AI · NeMo Guardrails
+- **Backend & APIs:** FastAPI · Django · Flask · Gin · Echo · Fiber · Node.js · gRPC · REST · Kong · KrakenD
+- **Data & Graphs:** PostgreSQL · Oracle · Redis · Kafka · Neo4j · GraphQL · Pandas · Spark
+- **Infra & DevOps:** Kubernetes · Docker · Docker Swarm · GitOps · AWS · Prometheus/Grafana · Keycloak
+- **Biomedical / Domain:** Signal processing (FFT, PCA, LDA) · Sensor fusion · Embedded (ESP-32, Raspberry Pi) · Healthcare AI
 
 ## Publications
 
